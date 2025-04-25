@@ -10,7 +10,7 @@ A web application to track and manage your movie watchlist. Keep track of movies
 - Edit movie details
 - Delete movies from your list
 - Toggle watched/unwatched status with a single click
-
+- Login feature
 ## Technologies Used
 
 - **Backend**: FastAPI (Python)
