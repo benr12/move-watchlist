@@ -49,3 +49,6 @@ uvicorn main:app --reload
 ![Example](pic1.png)
 ![Edit Function](pic2.png)
 ![Filter Function](pic3.png)
+![Login](login.png)
+![Register](register.png)
+![User](user.png)
